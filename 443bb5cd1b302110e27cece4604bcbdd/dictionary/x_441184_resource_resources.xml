@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e49cb5411b702110e27cece4604bcb7a" label="Resources" max_length="40" name="x_441184_resource_resources" type="collection">
+        <element label="ResourceID" max_length="40" name="resourceid" type="string"/>
+        <element label="SiteCode" max_length="40" name="sitecode" type="string"/>
+    </element>
+</database>
