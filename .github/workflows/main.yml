@@ -1,21 +1,12 @@
-name: pushdevelop
-on: push
+name: CI
+on: [push, pull_request]
 
 jobs:
-  pushdevelop:
+  build:
+    name: Run Script
     runs-on: windows-latest
-    defaults:
-      run:
+    steps:  
+      - uses: actions/checkout@v1
+      - name: Script
+        run: ./test.ps1
         shell: pwsh
-    steps:
-       
-      - name: testDefault
-      
-        run: |
-          write-output "Hello World"
-          echo "The operating system on the runner is $env:RUNNER_OS."
-          echo " name runner is $env:RUNNER_NAME."
-          echo " git hub workspace $env:GITHUB_WORKSPACE."
-          echo " git hub GITHUB_REPOSITORY $env:GITHUB_REPOSITORY."
-          "${GITHUB_WORKSPACE}/.test.ps1"
-          "${GITHUB_REPOSITORY}/.test.ps1"
