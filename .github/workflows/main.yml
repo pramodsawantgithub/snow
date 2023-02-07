@@ -18,4 +18,4 @@ jobs:
           echo " git hub workspace $env:GITHUB_WORKSPACE."
           echo " git hub GITHUB_REPOSITORY $env:GITHUB_REPOSITORY."
           "${GITHUB_WORKSPACE}/.test.ps1"
-          
+          "${GITHUB_REPOSITORY}/.test.ps1"
