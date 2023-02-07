@@ -1,0 +1,13 @@
+name: pushdevelop
+on: push
+
+jobs:
+    build:
+      name: pushdevelop
+      runs-on: windows-latest
+      steps: 
+      - name: testDefault
+        run: ./test.ps1
+        shell: pwsh
+        env:
+            MyVariable: 'hello, world'
