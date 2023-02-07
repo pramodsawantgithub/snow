@@ -7,7 +7,7 @@ jobs:
       runs-on: windows-latest
       steps: 
       - name: testDefault
-        run: ./test.ps1
+        run: .\test.ps1
         shell: pwsh
         env:
             MyVariable: 'hello, world'
