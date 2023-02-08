@@ -39,6 +39,7 @@
             </choice>
         </element>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Resource Administrators" max_length="1024" name="u_resource_administrators" reference="sys_user" type="glide_list"/>
+        <element label="New Name-Value Pairs" max_length="4000" name="u_simple_name_values_2" type="simple_name_values"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Technical Permissions" max_length="40" name="u_technical_permissions" type="string">
             <choice>
                 <element inactive_on_update="false" label="Fullaccess to Resource" sequence="0" value="fullaccess to resource"/>

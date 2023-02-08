@@ -4,13 +4,13 @@
             <element>u_first_come_first_serve</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-08 09:35:30</sys_created_on>
-            <sys_id>f26061071bb0e510e27cece4604bcbb0</sys_id>
+            <sys_created_on>2023-02-08 11:00:05</sys_created_on>
+            <sys_id>3dc3b90b1bf0e510e27cece4604bcb7c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reservation Policy" display_value="Reservation Policy" name="x_441184_resource_resources" sys_domain="global" view="Default view">35bb15cf1b70e510e27cece4604bcbf8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-08 09:35:30</sys_updated_on>
+            <sys_updated_on>2023-02-08 11:00:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,15 +18,29 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-08 09:35:30</sys_created_on>
-            <sys_id>766061071bb0e510e27cece4604bcbb0</sys_id>
+            <sys_created_on>2023-02-08 11:00:05</sys_created_on>
+            <sys_id>bdc3b90b1bf0e510e27cece4604bcb7c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reservation Policy" display_value="Reservation Policy" name="x_441184_resource_resources" sys_domain="global" view="Default view">35bb15cf1b70e510e27cece4604bcbf8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-08 09:35:30</sys_updated_on>
+            <sys_updated_on>2023-02-08 11:00:05</sys_updated_on>
             <sys_user/>
             <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_simple_name_values_2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 11:00:05</sys_created_on>
+            <sys_id>31c3b90b1bf0e510e27cece4604bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reservation Policy" display_value="Reservation Policy" name="x_441184_resource_resources" sys_domain="global" view="Default view">35bb15cf1b70e510e27cece4604bcbf8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 11:00:05</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Reservation Policy</caption>
