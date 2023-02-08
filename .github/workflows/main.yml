@@ -1,0 +1,12 @@
+name: CI
+on: [push, pull_request]
+
+jobs:
+  build:
+    name: Run Script
+    runs-on: self-hosted
+    steps:  
+      - uses: actions/checkout@v1
+      - name: Script
+        run: ./test.ps1
+        shell: pwsh

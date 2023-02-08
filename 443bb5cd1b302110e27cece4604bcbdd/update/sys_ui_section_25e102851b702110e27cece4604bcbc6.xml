@@ -1,58 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="25e102851b702110e27cece4604bcbc6" sys_domain="global" table="x_441184_resource_resources" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>resourceid</element>
+            <element>outlook_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-02 07:01:45</sys_created_on>
-            <sys_id>80b38a091b702110e27cece4604bcb26</sys_id>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>b817250f1bb0e510e27cece4604bcb53</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_441184_resource_resources" sys_domain="global" view="Default view">25e102851b702110e27cece4604bcbc6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-02 07:01:45</sys_updated_on>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_1</element>
+            <element>resourceid</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-02 07:01:45</sys_created_on>
-            <sys_id>04b38a091b702110e27cece4604bcb26</sys_id>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>3c17250f1bb0e510e27cece4604bcb53</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_441184_resource_resources" sys_domain="global" view="Default view">25e102851b702110e27cece4604bcbc6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-02 07:01:45</sys_updated_on>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_list_5</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>bc17250f1bb0e510e27cece4604bcb53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_441184_resource_resources" sys_domain="global" view="Default view">25e102851b702110e27cece4604bcbc6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-02 07:01:45</sys_created_on>
-            <sys_id>84b38a091b702110e27cece4604bcb26</sys_id>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>3017250f1bb0e510e27cece4604bcb54</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_441184_resource_resources" sys_domain="global" view="Default view">25e102851b702110e27cece4604bcbc6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-02 07:01:45</sys_updated_on>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sitecode</element>
-            <position>3</position>
+            <element>resource_category</element>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-02-02 07:01:45</sys_created_on>
-            <sys_id>08b38a091b702110e27cece4604bcb26</sys_id>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>b017250f1bb0e510e27cece4604bcb54</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_441184_resource_resources" sys_domain="global" view="Default view">25e102851b702110e27cece4604bcbc6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-02-02 07:01:45</sys_updated_on>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mailbox_location</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>3417250f1bb0e510e27cece4604bcb54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_441184_resource_resources" sys_domain="global" view="Default view">25e102851b702110e27cece4604bcbc6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>audioconference</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>b417250f1bb0e510e27cece4604bcb54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_441184_resource_resources" sys_domain="global" view="Default view">25e102851b702110e27cece4604bcbc6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

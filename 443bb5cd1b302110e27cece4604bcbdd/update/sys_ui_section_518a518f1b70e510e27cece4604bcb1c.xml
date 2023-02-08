@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Custom Resource Attributes" section_id="518a518f1b70e510e27cece4604bcb1c" sys_domain="global" table="x_441184_resource_resources" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>microsoftsurfacehub</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>b017250f1bb0e510e27cece4604bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pinboard</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>3417250f1bb0e510e27cece4604bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>videoplayer</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>b417250f1bb0e510e27cece4604bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>flipchart</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>3817250f1bb0e510e27cece4604bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tv</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>b817250f1bb0e510e27cece4604bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>smartboard</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>3c17250f1bb0e510e27cece4604bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>appletv</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>bc17250f1bb0e510e27cece4604bcb65</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pc</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>3017250f1bb0e510e27cece4604bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>b017250f1bb0e510e27cece4604bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_2projectorsorlcd_monitors</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>3417250f1bb0e510e27cece4604bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>overheadprojector</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>b417250f1bb0e510e27cece4604bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wlan</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>3817250f1bb0e510e27cece4604bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>whiteboard</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>b817250f1bb0e510e27cece4604bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lan</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>3c17250f1bb0e510e27cece4604bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vcr</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>bc17250f1bb0e510e27cece4604bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>videoconference</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>3017250f1bb0e510e27cece4604bcb67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>blackboard</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 10:04:35</sys_created_on>
+            <sys_id>b017250f1bb0e510e27cece4604bcb67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 10:04:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Custom Resource Attributes</caption>
+            <header>false</header>
+            <name>x_441184_resource_resources</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 09:09:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>518a518f1b70e510e27cece4604bcb1c</sys_id>
+            <sys_name>x_441184_resource_resources</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="resource management system" source="x_441184_resource">443bb5cd1b302110e27cece4604bcbdd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="resource management system">443bb5cd1b302110e27cece4604bcbdd</sys_scope>
+            <sys_update_name>sys_ui_section_518a518f1b70e510e27cece4604bcb1c</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
