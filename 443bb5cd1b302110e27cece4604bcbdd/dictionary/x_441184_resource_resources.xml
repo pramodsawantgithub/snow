@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="e49cb5411b702110e27cece4604bcb7a" label="RMA" max_length="40" name="x_441184_resource_resources" type="collection">
+        <element label="AppleTV" max_length="40" name="appletv" type="boolean"/>
+        <element label="AudioConference" max_length="40" name="audioconference" type="boolean"/>
+        <element label="Blackboard" max_length="40" name="blackboard" type="boolean"/>
         <element label="Building" max_length="40" name="building" type="integer"/>
         <element label="Capacity" max_length="40" name="capacity" type="integer"/>
         <element label="Country" max_length="40" name="country" type="string"/>
+        <element label="Flipchart" max_length="40" name="flipchart" type="boolean"/>
         <element label="Floor" max_length="40" name="floor" type="integer"/>
+        <element label="LAN" max_length="40" name="lan" type="boolean"/>
         <element label="Mailbox Location" max_length="40" name="mailbox_location" type="string"/>
         <element label="Mailtip" max_length="255" name="mailtip" type="string"/>
+        <element label="MicrosoftSurfaceHub" max_length="40" name="microsoftsurfacehub" type="boolean"/>
         <element label="Outlook Name" max_length="40" name="outlook_name" type="string"/>
+        <element label="OverheadProjector" max_length="40" name="overheadprojector" type="boolean"/>
+        <element label="PC" max_length="40" name="pc" type="boolean"/>
+        <element label="Pinboard" max_length="40" name="pinboard" type="boolean"/>
         <element label="Postal code" max_length="40" name="postal_code" type="integer"/>
-        <element label="ProjectorOrLCD_Monitor" max_length="40" name="projectororlcd_monitor" type="boolean"/>
         <element label="ResourceID" max_length="40" name="resourceid" type="string"/>
         <element label="Resource Category" max_length="40" name="resource_category" type="string"/>
         <element label="Room number" max_length="40" name="room_number" type="integer"/>
         <element label="Site" max_length="40" name="site" type="string"/>
+        <element label="Smartboard" max_length="40" name="smartboard" type="boolean"/>
         <element label="Street address" max_length="40" name="street_address" type="string"/>
         <element label="Telephone number" max_length="40" name="telephone_number" type="integer"/>
+        <element label="TV" max_length="40" name="tv" type="boolean"/>
         <element label="2ProjectorsOrLCD_Monitors" max_length="40" name="u_2projectorsorlcd_monitors" type="boolean"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="First Come First Serve" max_length="1024" name="u_first_come_first_serve" reference="sys_user" type="glide_list"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_5" type="glide_list"/>
@@ -37,5 +47,10 @@
                 <element inactive="true" inactive_on_update="true" label="Only Organizer" sequence="2" value="only organizer"/>
             </choice>
         </element>
+        <element label="VCR" max_length="40" name="vcr" type="boolean"/>
+        <element label="VideoConference" max_length="40" name="videoconference" type="boolean"/>
+        <element label="VideoPlayer" max_length="40" name="videoplayer" type="boolean"/>
+        <element label="Whiteboard" max_length="40" name="whiteboard" type="boolean"/>
+        <element label="WLAN" max_length="40" name="wlan" type="boolean"/>
     </element>
 </database>
