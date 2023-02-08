@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_legal_entity" table="x_441184_resource_resources" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_legal_entity</element>
+            <name>x_441184_resource_resources</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 09:45:46</sys_created_on>
+            <sys_name>u_legal_entity</sys_name>
+            <sys_package display_value="resource management system" source="x_441184_resource">443bb5cd1b302110e27cece4604bcbdd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="resource management system">443bb5cd1b302110e27cece4604bcbdd</sys_scope>
+            <sys_update_name>sys_choice_x_441184_resource_resources_u_legal_entity</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_legal_entity</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2000</label>
+            <language>en</language>
+            <name>x_441184_resource_resources</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 09:45:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>2000</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

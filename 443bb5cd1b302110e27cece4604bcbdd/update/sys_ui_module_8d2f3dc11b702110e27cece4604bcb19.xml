@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="resource">8d2f3dc11b702110e27cece4604bcb16</application>
+        <application display_value="Resource Managment System">8d2f3dc11b702110e27cece4604bcb16</application>
         <filter/>
-        <name>Resources</name>
+        <name>Resource Managment System</name>
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
@@ -14,7 +14,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8d2f3dc11b702110e27cece4604bcb19</sys_id>
-        <sys_name>Resources</sys_name>
+        <sys_name>Resource Managment System</sys_name>
         <sys_package display_value="resource management system" source="x_441184_resource">443bb5cd1b302110e27cece4604bcbdd</sys_package>
         <sys_policy/>
         <sys_scope display_value="resource management system">443bb5cd1b302110e27cece4604bcbdd</sys_scope>

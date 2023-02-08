@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="u_glide_date_1" table="x_441184_resource_resources">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>New Date</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_glide_date_1</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">glide_date</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_441184_resource_resources</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-02 07:01:44</sys_created_on>
+        <sys_name>New Date</sys_name>
+        <sys_package display_value="resource management system" source="x_441184_resource">443bb5cd1b302110e27cece4604bcbdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="resource management system">443bb5cd1b302110e27cece4604bcbdd</sys_scope>
+        <sys_update_name>sys_dictionary_x_441184_resource_resources_u_glide_date_1</sys_update_name>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="resource management system">443bb5cd1b302110e27cece4604bcbdd</application>
+        <file_path/>
+        <instance_id>5d5e89d6dbc430105749cac5059619a3</instance_id>
+        <instance_name>dev115859</instance_name>
+        <name>sys_dictionary_x_441184_resource_resources_u_glide_date_1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_glide_date_1" table="x_441184_resource_resources">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>New Date</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>u_glide_date_1</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">glide_date</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_441184_resource_resources</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-02 07:01:44</sys_created_on>
+        <sys_name>New Date</sys_name>
+        <sys_package display_value="resource management system" source="x_441184_resource">443bb5cd1b302110e27cece4604bcbdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="resource management system">443bb5cd1b302110e27cece4604bcbdd</sys_scope>
+        <sys_update_name>sys_dictionary_x_441184_resource_resources_u_glide_date_1</sys_update_name>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+</record_update>]]></payload>
+        <payload_hash>1243321582</payload_hash>
+        <record_name>Resources.New Date</record_name>
+        <reverted_from/>
+        <source>5cd3650b1bb0e510e27cece4604bcbcc</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 09:50:30</sys_created_on>
+        <sys_id>aad3290b1bb0e510e27cece4604bcbd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186306f10fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-08 09:50:30</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>e6d3290bcbb0e510821b8571bb7e5ad9</update_guid>
+        <update_guid_history>e6d3290bcbb0e510821b8571bb7e5ad9:0,e888110f1470e5104d79cf6eabc43d1e:-1726650794,80b38a09e0702110415e18c5c5a7191f:-1553466974</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 09:51:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>2bf3bde237364cc28a8fba21438d5004</sys_id>
+        <sys_metadata>ced3290b1bb0e510e27cece4604bcb36</sys_metadata>
+        <sys_name>New Date</sys_name>
+        <sys_package display_value="resource management system" source="x_441184_resource">443bb5cd1b302110e27cece4604bcbdd</sys_package>
+        <sys_parent display_value="RMA">e49cb5411b702110e27cece4604bcb7a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="resource management system">443bb5cd1b302110e27cece4604bcbdd</sys_scope>
+        <sys_scope_delete display_value="">3a2c50677c9f4f8cbe7f2aa803e38c44</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_441184_resource_resources_u_glide_date_1</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_441184_resource_resources_u_glide_date_1">aad3290b1bb0e510e27cece4604bcbd9</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

@@ -2,7 +2,7 @@
     <sys_ui_application action="INSERT_OR_UPDATE">
         <active>true</active>
         <hint/>
-        <name>resource</name>
+        <name>Resource Managment System</name>
         <order/>
         <roles>x_441184_resource.resources_user</roles>
         <sys_class_name>sys_ui_application</sys_class_name>
@@ -11,7 +11,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8d2f3dc11b702110e27cece4604bcb16</sys_id>
-        <sys_name>resource</sys_name>
+        <sys_name>Resource Managment System</sys_name>
         <sys_overrides/>
         <sys_package display_value="resource management system" source="x_441184_resource">443bb5cd1b302110e27cece4604bcbdd</sys_package>
         <sys_policy/>

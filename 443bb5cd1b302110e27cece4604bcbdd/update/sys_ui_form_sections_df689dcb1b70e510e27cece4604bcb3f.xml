@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="df689dcb1b70e510e27cece4604bcb3f" sys_domain="global" table="x_441184_resource_resources" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 09:00:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f689dcb1b70e510e27cece4604bcb42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_441184_resource_resources" name="x_441184_resource_resources" sys_domain="global" view="Default view">df689dcb1b70e510e27cece4604bcb3f</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_441184_resource_resources" sys_domain="global" view="Default view">25e102851b702110e27cece4604bcbc6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 09:00:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 09:00:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b689dcb1b70e510e27cece4604bcb43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_441184_resource_resources" name="x_441184_resource_resources" sys_domain="global" view="Default view">df689dcb1b70e510e27cece4604bcb3f</sys_ui_form>
+            <sys_ui_section caption="Location" display_value="Location" name="x_441184_resource_resources" sys_domain="global" view="Default view">d3689dcb1b70e510e27cece4604bcb3e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 09:00:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 09:04:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9495d0f1b70e510e27cece4604bcbbe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_441184_resource_resources" name="x_441184_resource_resources" sys_domain="global" view="Default view">df689dcb1b70e510e27cece4604bcb3f</sys_ui_form>
+            <sys_ui_section caption="Description" display_value="Description" name="x_441184_resource_resources" sys_domain="global" view="Default view">ad495d0f1b70e510e27cece4604bcbbb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 09:04:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 09:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e18a518f1b70e510e27cece4604bcb76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_441184_resource_resources" name="x_441184_resource_resources" sys_domain="global" view="Default view">df689dcb1b70e510e27cece4604bcb3f</sys_ui_form>
+            <sys_ui_section caption="Custom Resource Attributes" display_value="Custom Resource Attributes" name="x_441184_resource_resources" sys_domain="global" view="Default view">518a518f1b70e510e27cece4604bcb1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 09:09:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 09:14:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39bb55cf1b70e510e27cece4604bcb6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_441184_resource_resources" name="x_441184_resource_resources" sys_domain="global" view="Default view">df689dcb1b70e510e27cece4604bcb3f</sys_ui_form>
+            <sys_ui_section caption="Reservation Policy" display_value="Reservation Policy" name="x_441184_resource_resources" sys_domain="global" view="Default view">35bb15cf1b70e510e27cece4604bcbf8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 09:14:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 09:41:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48b165871bb0e510e27cece4604bcb05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_441184_resource_resources" name="x_441184_resource_resources" sys_domain="global" view="Default view">df689dcb1b70e510e27cece4604bcb3f</sys_ui_form>
+            <sys_ui_section caption="Outlook Calendar" display_value="Outlook Calendar" name="x_441184_resource_resources" sys_domain="global" view="Default view">3fa125871bb0e510e27cece4604bcb3a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 09:41:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 09:45:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3cc265c71bb0e510e27cece4604bcbd5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_441184_resource_resources" name="x_441184_resource_resources" sys_domain="global" view="Default view">df689dcb1b70e510e27cece4604bcb3f</sys_ui_form>
+            <sys_ui_section caption="Administration" display_value="Administration" name="x_441184_resource_resources" sys_domain="global" view="Default view">70c265c71bb0e510e27cece4604bcb61</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 09:45:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 09:45:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85c265c71bb0e510e27cece4604bcbda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_441184_resource_resources" name="x_441184_resource_resources" sys_domain="global" view="Default view">df689dcb1b70e510e27cece4604bcb3f</sys_ui_form>
+            <sys_ui_section caption="Owner" display_value="Owner" name="x_441184_resource_resources" sys_domain="global" view="Default view">30c265c71bb0e510e27cece4604bcb62</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-08 09:45:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_441184_resource_resources</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-08 09:00:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df689dcb1b70e510e27cece4604bcb3f</sys_id>
+            <sys_name>x_441184_resource_resources</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="resource management system" source="x_441184_resource">443bb5cd1b302110e27cece4604bcbdd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="resource management system">443bb5cd1b302110e27cece4604bcbdd</sys_scope>
+            <sys_update_name>sys_ui_form_sections_df689dcb1b70e510e27cece4604bcb3f</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
