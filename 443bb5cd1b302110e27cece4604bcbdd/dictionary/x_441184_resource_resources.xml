@@ -33,6 +33,7 @@
                 <element inactive_on_update="false" label="2000" sequence="0" value="2000"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Mailtip" max_length="40" name="u_mailtip" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Public calendar" max_length="40" name="u_public_calendar" type="string">
             <choice>
                 <element inactive_on_update="false" label="Everyone can read" sequence="0" value="everyone can read"/>
