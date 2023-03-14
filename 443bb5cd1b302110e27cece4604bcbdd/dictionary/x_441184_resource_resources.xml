@@ -33,6 +33,10 @@
                 <element inactive_on_update="false" label="2000" sequence="0" value="2000"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Log When Changed" max_length="40" name="u_logwhenchanged" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Log When Created" max_length="40" name="u_logwhencreated" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Log Who Changed" max_length="40" name="u_logwhochanged" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Log Who Created" max_length="40" name="u_logwhocreated" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Public calendar" max_length="40" name="u_public_calendar" type="string">
             <choice>
                 <element inactive_on_update="false" label="Everyone can read" sequence="0" value="everyone can read"/>

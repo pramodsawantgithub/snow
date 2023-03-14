@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_logwhencreated" label="Log When Created" language="en" table="x_441184_resource_resources">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_logwhencreated</element>
+            <help/>
+            <hint/>
+            <label>Log When Created</label>
+            <language>en</language>
+            <name>x_441184_resource_resources</name>
+            <plural>Log When Created</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-14 14:29:17</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Log When Created</sys_name>
+            <sys_package display_value="resource management system" source="x_441184_resource">443bb5cd1b302110e27cece4604bcbdd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="resource management system">443bb5cd1b302110e27cece4604bcbdd</sys_scope>
+            <sys_update_name>sys_documentation_x_441184_resource_resources_u_logwhencreated_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-14 14:29:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
